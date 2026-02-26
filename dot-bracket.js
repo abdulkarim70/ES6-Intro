@@ -9,3 +9,6 @@ const employee={
 //    bracket Notation
 console.log(employee['home-address'])
 console.log(employee['name']);
+console.log(employee['position'])
+const key='position'
+console.log(employee[key])
